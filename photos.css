@@ -1,7 +1,7 @@
 .photos {
     width: 950px;
     height: 600px;
-    /* background-color: #e5007d; */
+    background-color: #e5007d;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -21,25 +21,26 @@
    color: white;
    border: none;
    cursor: pointer;
+   
 }
 .hover-button1:hover{
     background-color: #E5007D;
     color: black;
+
 }
 .hover-button2:hover{
     background-color: #6BBBAE;
     color: black;
 }
 
-
 .photo1 {
     height: 300px;
     width: 33.3%;
-    background-image: url(/photos/2.jpg);
-    
+  
     object-fit: cover;
     object-position: center;
 }
+
 .photo2 {
     height: 300px;
     width: 33.3%;
@@ -86,7 +87,6 @@
 .second-photos{
     height: 590px;
     width: 900px;
-    /* background-color: aqua; */
     margin: 0 auto;
     margin-top: 60px;
     display: flex;
@@ -98,32 +98,28 @@
     margin-left: 140px;
 }
 
-.second-phot1{
+.second-phot1 img{
     height: 300px;
     width: 290px;
-    background-image: url(/photos/s2-1.jpg);
     object-fit: cover;
     object-position: center;
     
 }
-.second-phot2{
+.second-phot2 img{
     height: 300px;
     width: 290px;
-    background-image: url(/photos/s2-2.jpg);
     object-fit: cover;
     object-position: center;
     
 }
-.second-phot3{
+.second-phot3 img{
     height: 300px;
     width: 290px;
-    background-image: url(/photos/8.jpg);
     object-fit: cover;
     object-position: center;
     
 }
 .second-phot-text{
-    /* background-color: red; */
     height: 300px;
     width: 290px;
 }
@@ -147,7 +143,6 @@
 .third-photos{
     height: 600px;
     width: 900px;
-    /* background-color: aqua; */
     margin: 0 auto;
     margin-top: 60px;
     display: flex;
@@ -159,23 +154,21 @@
     
 }
 
-.third-phot1{
+.third-phot1 img{
     height: 300px;
     width: 290px;
-    background-image: url(/photos/10.jpg);
     object-fit: cover;
     object-position: center;
     
 }
-.third-phot2{
+.third-phot2 img{
     height: 300px;
     width: 290px;
-    background-image: url(/photos/11.jpg);
     object-fit: cover;
     object-position: center;
     
 }
-.third-phot3{
+.third-phot3 img{
     height: 300px;
     width: 290px;
     background-image: url(/photos/12.jpg);
@@ -184,7 +177,6 @@
     
 }
 .third-phot-text{
-    /* background-color: red; */
     height: 300px;
     width: 290px;
 }
@@ -209,7 +201,6 @@
 .last-photos{
     height: 450px;
     width: 900px;
-    /* background-color: aqua; */
     margin: 0 auto;
     margin-top: 60px;
     display: flex;
@@ -235,10 +226,9 @@
     font-size: 20px;
     
  }
-.last-phot2{
+.last-phot2 img{
     height: 300px;
     width: 430px;
-    background-image: url(/photos/final1.jpg);
     object-fit: cover;
     object-position: center;
     

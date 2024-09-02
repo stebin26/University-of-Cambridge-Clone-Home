@@ -3,6 +3,7 @@ body{
     margin: 0;
     padding: 20px;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 header{
     display: flex;
@@ -47,15 +48,12 @@ header{
     width: 1153px;
     display: flex;
     margin-left: 70px;
-    /* background-color: blue; */
-    
 }
 
 
 .news{
     margin-top: 80px;
     margin-left: 140px;
-    /* background-color: #E5007D; */
      height: 100px;
      
 }
@@ -73,7 +71,6 @@ header{
 .news-button{
     height: 40px;
     width: 100%;
-    /* background-color: #E5007D; */
       display: flex;
       justify-content: flex-end;
     
@@ -90,7 +87,6 @@ header{
 .student-persp{
     height: 40px;
     width: 100%;
-    /* background-color: #cfa8bd; */
     display: flex;
     justify-content: space-around;
     font-size: 2rem;
@@ -105,7 +101,6 @@ header{
 .follow-us{
     height: 50px;
     width: 100%;
-    /* background-color: #E5007D; */
     margin-left: 120px;
 }
 .follow-us h1{
@@ -118,7 +113,6 @@ header{
 .icons{
     height: 40px;
     width: 250px;
-    /* background-color: #E5007D; */
     display: flex;
     justify-content:space-evenly;
     margin-left: 140px;
@@ -138,7 +132,6 @@ header{
 .footer-comm{
     width: 300px;
     height: auto;
-    /* background-color: rgb(197, 27, 27); */
     color: white;
     /* border: 1px solid; */
     position: relative;
@@ -150,7 +143,6 @@ header{
     margin-top: 20px;
     width: auto;
     height:78px ;
-    /* background-color: #E5007D; */
     overflow: hidden;
     display: flex;
     flex-wrap: wrap;
