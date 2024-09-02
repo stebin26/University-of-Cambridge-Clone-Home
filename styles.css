@@ -140,19 +140,21 @@ header{
     
 }
 .black-logo{
+    
     margin-top: 20px;
     width: auto;
     height:78px ;
     overflow: hidden;
     display: flex;
     flex-wrap: wrap;
-      
+    /* background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/university_logo_white-01.svg); */
 }
-    .black-logo img{
+    .black-logo {
+
     object-fit: cover;
-    width:auto;
-    height: 90px;
-    margin-left: -12px;
-    background-color: #cfa8bd;
-  
+    width:192px;
+    height: 40px;
+    /* margin-left: -12px; */
+    /* background-color: #cfa8bd; */
+     background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/university_logo_white-01.svg);
     }

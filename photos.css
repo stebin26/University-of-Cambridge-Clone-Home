@@ -36,7 +36,7 @@
 .photo1 {
     height: 300px;
     width: 33.3%;
-  
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_linkbox/public/cambridge-university-library-books-reading_0.jpg?itok=ioxdEIxr);
     object-fit: cover;
     object-position: center;
 }
@@ -44,7 +44,7 @@
 .photo2 {
     height: 300px;
     width: 33.3%;
-    background-image: url(photos/3.jpg); 
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_linkbox/public/cambridge-university-museums-curating_0.jpg?itok=IdFnWHu1); 
     
     object-fit: cover;
     object-position: center;
@@ -52,7 +52,7 @@
 .photo3 {
     height: 300px;
     width: 300px;
-    background-image: url(/photos/4.jpg);
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_linkbox/public/cambridge-university-research-climate_0.jpg?itok=sP7WQ2A6);
    
     object-fit: cover;
     object-position: center;
@@ -60,7 +60,7 @@
 .photo4 {
     height: 300px;
     width: 33.3%;
-    background-image: url(/photos/5.jpg);
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_linkbox/public/cambridge-university-business-enterprise-innovation_0.jpg?itok=aaIdrUEK);
   
     object-fit: cover;
     object-position: center;
@@ -68,7 +68,7 @@
 .photo5 {
     height: 300px;
     width: 33.3%;
-    background-image: url(/photos/1-7.png);
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_linkbox/public/alumni_-_attenboroug_-_box_0.png?itok=h1bVn24t);
     /* border: 1px solid; */
     object-fit: cover;
     object-position: center;
@@ -76,7 +76,7 @@
 .photo6 {
     height: 300px;
     width: 300px;
-    background-image: url(/photos/6.jpg);
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_linkbox/public/cambridge-university-sport-club_0.jpg?itok=kOqonCuV);
     /* border: 1px solid; */
     object-fit: cover;
     object-position: center;
@@ -98,26 +98,27 @@
     margin-left: 140px;
 }
 
-.second-phot1 img{
+.second-phot1 {
     height: 300px;
     width: 290px;
     object-fit: cover;
     object-position: center;
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_news/public/news-becoming-scientist-book-278x328.jpg?itok=P0W5ODld);
     
 }
-.second-phot2 img{
+.second-phot2 {
     height: 300px;
     width: 290px;
     object-fit: cover;
     object-position: center;
-    
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_news/public/educator_awards_2024_5_winners_756.jpg?itok=bzmbuKvb);
 }
-.second-phot3 img{
+.second-phot3 {
     height: 300px;
     width: 290px;
     object-fit: cover;
     object-position: center;
-    
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_news/public/prostrate_cancer_image_by_annie_cavanagh_wellcome_756.jpg?itok=PucrZyM4);
 }
 .second-phot-text{
     height: 300px;
@@ -154,24 +155,24 @@
     
 }
 
-.third-phot1 img{
+.third-phot1 {
     height: 300px;
     width: 290px;
     object-fit: cover;
     object-position: center;
-    
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_news/public/events-open-cambridge-university-festival-378x328.jpg?itok=XR7cF3Yq);
 }
-.third-phot2 img{
+.third-phot2 {
     height: 300px;
     width: 290px;
     object-fit: cover;
     object-position: center;
-    
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_news/public/events-cambridge-open-days-admissions-undergraduate-378x328.jpg?itok=52W8nLc4);
 }
-.third-phot3 img{
+.third-phot3{
     height: 300px;
     width: 290px;
-    background-image: url(/photos/12.jpg);
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_news/public/events-summer-museum-cambridge-university-378x328.jpg?itok=KJaWZmzy);
     object-fit: cover;
     object-position: center;
     
@@ -226,12 +227,12 @@
     font-size: 20px;
     
  }
-.last-phot2 img{
+.last-phot2 {
     height: 300px;
     width: 430px;
     object-fit: cover;
     object-position: center;
-    
+    background-image: url(https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/homepage_social/public/pembroke-college-cambridge-university-gate-576x324.jpg?itok=uNsa9G4Q);
 }
 .last-phot2 p{
     padding-top:68%;
