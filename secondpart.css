@@ -1,0 +1,35 @@
+.second-part{
+    position:relative;
+    top:27px;
+    height:90px;
+    width: 100%;
+    /* background-color: #d2a6be; */
+    display: flex;
+    justify-content: space-between;
+}
+.second-part1{
+    position: relative;
+    top: 1px;
+    height: 50px;
+    width: 600px;
+    background-color: rgb(48, 190, 190);
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.second-title1{
+    text-align: start;
+    
+    margin-top: 20px;
+}
+
+.second-part2{
+    position: relative;
+    top: 1px;
+    height: 50px;
+    width: 600px;
+    background-color:#E5007D;
+    display: flex;
+    justify-content: space-evenly;
+
+}

@@ -1,0 +1,166 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+     position: fixed;   
+    align-items: center;
+    padding: 20px;
+    width: 98%;
+    top: 0;
+    background-color:white;
+    color: black;
+    z-index: 1000;
+    height: 60px;
+}
+.logo img {
+    text-decoration: none;
+    color:white;
+    width: 150px;
+    height: auto;
+    font-weight: bold;
+}
+.search-container{
+    margin-left:400px;
+    display: flex;
+    align-items: center;
+    padding-right: 100px;
+}
+.search-icon{
+    font-size: 20px;
+    cursor:pointer;
+    margin-right: 50px;
+}
+.search-container bar-icon{
+    margin-right: 100px;
+}
+
+/* MAIN BODY PART */
+
+
+.youtube {
+    height: 649px;
+    width: 1153px;
+    display: flex;
+    margin-left: 70px;
+    /* background-color: blue; */
+    
+}
+
+
+.news{
+    margin-top: 80px;
+    margin-left: 140px;
+    /* background-color: #E5007D; */
+     height: 100px;
+     
+}
+.news h2{
+    font-weight: 500;
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+}
+.news p{
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.25rem;
+}
+
+.news-button{
+    height: 40px;
+    width: 100%;
+    /* background-color: #E5007D; */
+      display: flex;
+      justify-content: flex-end;
+    
+     
+}
+.news-button1{
+    background-color: black;
+    color: #6BBBAE;
+    margin-right: 190px;
+    font-size: 15px;
+    border: none;
+}
+
+.student-persp{
+    height: 40px;
+    width: 100%;
+    /* background-color: #cfa8bd; */
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'Lato', sans-serif;
+    margin-top: 40px;
+}
+.student-persp p{
+    margin-left: 25px;
+}
+
+.follow-us{
+    height: 50px;
+    width: 100%;
+    /* background-color: #E5007D; */
+    margin-left: 120px;
+}
+.follow-us h1{
+    margin-left: 40px;
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.icons{
+    height: 40px;
+    width: 250px;
+    /* background-color: #E5007D; */
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 140px;
+    font-size: 25px;
+}
+
+.footer{
+    height: 360px;
+    color: whit;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+.footer-comm{
+    width: 300px;
+    height: auto;
+    /* background-color: rgb(197, 27, 27); */
+    color: white;
+    /* border: 1px solid; */
+    position: relative;
+    overflow: hidden;
+    top: 0;
+    
+}
+.black-logo{
+    margin-top: 20px;
+    width: auto;
+    height:78px ;
+    /* background-color: #E5007D; */
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+      
+}
+    .black-logo img{
+    object-fit: cover;
+    width:auto;
+    height: 90px;
+    margin-left: -12px;
+    background-color: #cfa8bd;
+  
+    }

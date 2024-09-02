@@ -1,0 +1,19 @@
+.button1{
+  
+    margin-top: 10px;
+    color: #6c757d;
+    height: 30px;
+    border: none;
+    
+    cursor: pointer;
+
+}
+
+.button2{
+    color: white;
+    background-color: black;
+    border: 0;
+    cursor: pointer;
+     height: 30px;
+    
+}
